@@ -1,0 +1,13 @@
+C:\Users\keziq\Desktop\rirt\sistemas-de-passagens\bin\Debug\netcoreapp3.1\sistemas-de-passagens.exe
+C:\Users\keziq\Desktop\rirt\sistemas-de-passagens\bin\Debug\netcoreapp3.1\sistemas-de-passagens.deps.json
+C:\Users\keziq\Desktop\rirt\sistemas-de-passagens\bin\Debug\netcoreapp3.1\sistemas-de-passagens.runtimeconfig.json
+C:\Users\keziq\Desktop\rirt\sistemas-de-passagens\bin\Debug\netcoreapp3.1\sistemas-de-passagens.runtimeconfig.dev.json
+C:\Users\keziq\Desktop\rirt\sistemas-de-passagens\bin\Debug\netcoreapp3.1\sistemas-de-passagens.dll
+C:\Users\keziq\Desktop\rirt\sistemas-de-passagens\bin\Debug\netcoreapp3.1\sistemas-de-passagens.pdb
+C:\Users\keziq\Desktop\rirt\sistemas-de-passagens\obj\Debug\netcoreapp3.1\sistemas-de-passagens.csprojAssemblyReference.cache
+C:\Users\keziq\Desktop\rirt\sistemas-de-passagens\obj\Debug\netcoreapp3.1\sistemas-de-passagens.AssemblyInfoInputs.cache
+C:\Users\keziq\Desktop\rirt\sistemas-de-passagens\obj\Debug\netcoreapp3.1\sistemas-de-passagens.AssemblyInfo.cs
+C:\Users\keziq\Desktop\rirt\sistemas-de-passagens\obj\Debug\netcoreapp3.1\sistemas-de-passagens.csproj.CoreCompileInputs.cache
+C:\Users\keziq\Desktop\rirt\sistemas-de-passagens\obj\Debug\netcoreapp3.1\sistemas-de-passagens.dll
+C:\Users\keziq\Desktop\rirt\sistemas-de-passagens\obj\Debug\netcoreapp3.1\sistemas-de-passagens.pdb
+C:\Users\keziq\Desktop\rirt\sistemas-de-passagens\obj\Debug\netcoreapp3.1\sistemas-de-passagens.genruntimeconfig.cache
